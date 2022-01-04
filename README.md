@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fathy3
+- 👋 Hi, I’m @fathy
 - 👀 I’m interested in InfoSec
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on pen-testing projects
+- 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me fathymuhammad3@gmail.com
 
 <!---
